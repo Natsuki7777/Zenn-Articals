@@ -1,0 +1,23 @@
+{
+  "name": "zenn-articals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natsuki7777/Zenn-Articals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natsuki7777/Zenn-Articals/issues"
+  },
+  "homepage": "https://github.com/Natsuki7777/Zenn-Articals#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.99"
+  }
+}
